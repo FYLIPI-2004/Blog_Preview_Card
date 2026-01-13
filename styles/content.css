@@ -1,0 +1,16 @@
+.fundo {
+  & p {
+    background-clip: border-box;
+    margin-right: 254px;
+    padding: 4px 12px;
+    font: var(--text-bold);
+    border-radius: 4px;
+    background-color: var(--yellow);
+  }
+}
+
+.publi {
+  & p {
+    font: --t;
+  }
+}

@@ -3,17 +3,31 @@
   padding: 0px;
 }
 
-font {
+:root {
   --font-family: 'Figtree', sans serif;
-  --text-eb1: 24px 150% var(--font-family);
-  --text-md1: 16px 150% var(--font-family);
-  --text-md2: 14px 150% var(--font-family);
-  --text-bold: 800 14px 150% var(--font-family);
-}
+  line-height: 150%;
+  color: #111111;
+  
+  --text-eb1: 800 24px/150% var(--font-family);
+  --text-md1: 800 16px/150% var(--font-family);
+  --text-md2: medium 14px/150% var(--font-family);
+  --text-bold: 800 14px/150% var(--font-family);
 
-color {
   --yellow: #F4D04E;
   --black: #111111;
   --gray: #6B6B6B;
   --white: #FFFFFF;
+}
+
+body {
+  background-color: #F4D04E;
+}
+
+.container {
+  box-sizing: border-box;
+  width: 384px;
+  padding: 24px;
+  background-color: #FFFFFF;
+  border-radius: 20px;
+  margin: 48px auto 28px;
 }
