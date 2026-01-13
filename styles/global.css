@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+font {
+  --font-family: 'Figtree', sans serif;
+  --text-eb1: 24px 150% var(--font-family);
+  --text-md1: 16px 150% var(--font-family);
+  --text-md2: 14px 150% var(--font-family);
+  --text-bold: 800 14px 150% var(--font-family);
+}
+
+color {
+  --yellow: #F4D04E;
+  --black: #111111;
+  --gray: #6B6B6B;
+  --white: #FFFFFF;
+}
