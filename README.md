@@ -24,7 +24,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 ## Screenshots
 
-![Final Project](C:\Users\nogra\Desktop\blog-preview-card\final-project-screenshot.png)
+![Final Project](final-project-screenshot.png)
 
 
 ## 🔗 Links
