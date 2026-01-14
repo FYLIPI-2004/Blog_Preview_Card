@@ -25,6 +25,10 @@ h1 {
   font: var(--text-eb1);
 }
 
+h1:hover {
+color: var(--yellow);
+}
+
 #text {
   font: var(--text-md1);
   color: var(--gray);
