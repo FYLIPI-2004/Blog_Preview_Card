@@ -1,3 +1,7 @@
+main header {
+  padding-bottom: 24px;
+}
+
 .fundo {
   & p {
     background-clip: border-box;
@@ -11,6 +15,31 @@
 
 .publi {
   & p {
-    font: --t;
+    font: var(--text-md2);
+    padding-top: 12px;
+    padding-bottom: 12px;
   }
+}
+
+h1 {
+  font: var(--text-eb1);
+}
+
+#text {
+  font: var(--text-md1);
+  color: var(--gray);
+  margin-top: 12px;
+  margin-bottom: 24px;
+}
+
+footer {
+  display: flex;
+}
+
+footer p {
+  display: flex;
+  align-items: center;
+  font: var(--text-bold);
+  padding-left: 12px;
+  padding-right: 5.5px;
 }
