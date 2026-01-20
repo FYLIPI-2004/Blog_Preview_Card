@@ -7,13 +7,13 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Screenshots](#screenshots)
+  - [Links](#-links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Author](#author)
+- [Authors](#authors)
 
 ## Overview
 
@@ -32,12 +32,15 @@ Users should be able to:
 - Solution URL: [https://github.com/FYLIPI-2004/Blog_Preview_Card](https://github.com/FYLIPI-2004/Blog_Preview_Card)
 - Live Site URL: [https://fylipi-2004.github.io/Blog_Preview_Card/](https://fylipi-2004.github.io/Blog_Preview_Card/)
 
+## My process
+
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
+
 ### What I learned
 
 This is the code i've made for the white background and i've added the shadow too!
@@ -73,7 +76,7 @@ I've had to creat the "learning" background and make sure it's the right size. S
 ### Continued development
 
 I have a problem with nesting css, so i wan't to learn more about it, to make my code more optimized and simple.
-## Autores
+## Authors
 
 - [@FYLIPI-2004](https://github.com/FYLIPI-2004)
 - Frontend Mentor - [@FYLIPI-2004](https://www.frontendmentor.io/profile/FYLIPI-2004)
